@@ -1,5 +1,3 @@
-# Stars
-
 ## 学习
 
 [fzuhelper-app](https://github.com/west2-online/fzuhelper-app)
